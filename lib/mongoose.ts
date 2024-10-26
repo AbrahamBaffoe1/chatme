@@ -29,3 +29,5 @@ async function dbConnect() {
 }
 
 export default dbConnect;
+
+// made some changes to the files in the main templates
